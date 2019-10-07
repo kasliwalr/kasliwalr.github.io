@@ -8,7 +8,6 @@ categories: jekyll update
 [System Process Monitor: rtop](https://kasliwalr.github.io/rtop/)
 
 
-[Bluetooth remote for mobile camera: camClick](rtop)
 
 
 
