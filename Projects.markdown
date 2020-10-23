@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 * [System Process Monitor: rtop](https://kasliwalr.github.io/rtop)
-* [Shell program](https://github.com/kasliwalr.github.io/shell-utility)
+* [Shell program](https://github.com/kasliwalr/shell-utility)
 * [Filesystem checker](https://github.com/kasliwalr/filesystem-checker)
 * [MapReduce system](https://github.com/kasliwalr/map-reduce-system)
 * [Ridesharing app](https://github.com/kasliwalr/Ridesharing-app)
