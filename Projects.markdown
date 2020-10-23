@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 * [System Process Monitor: rtop](https://kasliwalr.github.io/rtop)
-* [Shell program](https://github.com/kasliwalr/intro_os_course/tree/master/project_assignments/p2a)
+* [Shell program](https://github.com/kasliwalr/shell-utility)
 
 
 
